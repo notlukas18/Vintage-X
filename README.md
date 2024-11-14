@@ -33,8 +33,3 @@ The app consists of the following key screens:
 - Android Studio installed on your machine.
 - Basic understanding of Android development and Kotlin.
 
-### Installation 🛠️
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/vintage-x.git
